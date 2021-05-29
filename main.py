@@ -3,7 +3,6 @@ import os
 import sys
 import threading
 import time
-import psutil
 import inspect
 
 import json
