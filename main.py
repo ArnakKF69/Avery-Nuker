@@ -4,6 +4,7 @@ import sys
 import threading
 import time
 import inspect
+import psutil
 
 import json
 import asyncio
